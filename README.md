@@ -1,4 +1,5 @@
-# ryan-function-scope
+# Function Scope
+#### Don't forget to fork and clone
 
 This lesson talks about something called *function scopes*. By the end of this lesson, you should know: what scoping is, why it is useful, and how to use it.
 
