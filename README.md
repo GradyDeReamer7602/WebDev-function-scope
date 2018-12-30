@@ -39,3 +39,5 @@ So, this line would now work:
 
 The variable two is in what we call the global scope. That means that two is globally available to all of our code.
 This can be both a help and a hindrance to you as a developer. We'll get more into this later. For now, just try to avoid creating variables in the global scope as much as possible.
+
+Test your comprehension of function scopes by going through the exercise(s) in `function-scope.js`
