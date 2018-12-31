@@ -1,7 +1,7 @@
 # Function Scope
 #### Don't forget to fork and clone
 
-This lesson talks about something called *function scopes*. By the end of this lesson, you should know what scoping is, and how to use it.
+This lesson talks about something called *function scopes*. By the end of this lesson, you should know what scoping is and how to use it.
 
 Examine this function and make a guess as to what the output would be if this function were invoked:
 ```
