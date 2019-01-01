@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>WebDev Lessons - Functions</title>
+    <link rel="stylesheet" href="lib/mocha.css" />
+  </head>
+  <body>
+    <div id="mocha"></div>
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/chai.js"></script>
+    <script src="lib/mocha.js"></script>
+    <script>
+      const expect = chai.expect;
+    </script>
+    <script>
+      mocha.setup("bdd");
+    </script>
+    <script src="function-scope.js"></script>
+    <script src="function-scope.spec.js"></script>
+    <script src="lib/tools.js"></script>
+    <script>
+      mocha.run();
+    </script>
+  </body>
+</html>
