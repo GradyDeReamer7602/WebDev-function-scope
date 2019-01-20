@@ -1,6 +1,6 @@
 //Using what you learned from the README, hypothesize what would happen in each of the following cases.
-//If the code will throw an error, run the corresponding function for that problem and pass in
-//'true'. Otherwise, run the corresponding function for that problem and pass in 'false'
+//If the code will throw an error, find the corresponding variable for that problem and pass in
+//'true'. Otherwise, find the corresponding variable for that problem and pass in 'false'
 //Do NOT run the code... run it in your mind, instead. :)
 
 //1. Would this console.log() throw an error or not?
