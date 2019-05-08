@@ -2,7 +2,7 @@
 //If the code will throw an error, find the corresponding variable for that problem and pass in
 //'true'. Otherwise, find the corresponding variable for that problem and pass in 'false'
 //Do NOT run the code... run it in your mind, instead. :)
-
+suh
 //1. Would this console.log() throw an error or not?
 var multiplyTwoNums = function(factor1, factor2){
    return(factor1 * factor2);
