@@ -2,7 +2,7 @@
 //If the code will throw an error, find the corresponding variable for that problem and pass in
 //'true'. Otherwise, find the corresponding variable for that problem and pass in 'false'
 //Do NOT run the code... run it in your mind, instead. :)
-suh
+
 //1. Would this console.log() throw an error or not?
 var multiplyTwoNums = function(factor1, factor2){
    return(factor1 * factor2);
@@ -10,7 +10,7 @@ var multiplyTwoNums = function(factor1, factor2){
 multiplyTwoNums();
 //console.log(factor1); 
 
-answerOne = 'answer'; //Your answer here
+answerOne = 'true'; //Your answer here
 
 //2. Will this console.log() throw an error or not?
 var name = "Bruce";
@@ -21,7 +21,7 @@ var returnName = function(nameArg){
 returnName("My name is ");
 // console.log(name);
 
-answerTwo = 'answer'; //Your answer here
+answerTwo = 'false'; //Your answer here
 
 //3. Will this console.log() throw an error or not?
 //*Don't get confused by the two ${ } on line 29. They are called template literals and simply allow
@@ -33,4 +33,4 @@ var pizzaMaker = function(customerName, kindOfPizza){
 pizzaMaker("Ryan", pizzaType);
 // console.log(customerName, pizzaType);
 
-answerThree = 'answer'; //Your answer here
+answerThree = 'true'; //Your answer here
